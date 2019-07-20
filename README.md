@@ -50,7 +50,7 @@ lang: {
   errorconvert: "URL can not to convert",
   emptypass: "Password can not be empty",
   wrongpass: "Password is incorrect",
-  countdowntext: "Please Wait {{anascountdown}} Second";
+  countdowntext: "Please Wait {{countdowntimer}} Second";
 }
 ```
 
